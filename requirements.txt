@@ -1,0 +1,4 @@
+youtube_dl==2019.2.18
+discord.py==0.16.12
+discord==0.16.12
+ffmpeg==1.4
